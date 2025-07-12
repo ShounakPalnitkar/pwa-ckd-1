@@ -1,0 +1,19 @@
+{
+  "name": "CKD Predictor",
+  "short_name": "CKD Predict",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a6fc9",
+  "description": "Chronic Kidney Disease Prediction Tool",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#1a6fc9",
+  "scope": "/",
+  "orientation": "portrait"
+}
